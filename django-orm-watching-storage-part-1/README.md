@@ -10,11 +10,11 @@ The project uses the following settings:
 
  To work with the database, you need to configure the appropriate parameters in the `settings.py` file.
 
- Necessary environment variables `settings.py` file.
+ Necessary environment variables in `settings.py` file.
 
  Before running the program, you need to set the following environment variables:
 
- `DB_ENGINE` - database engine (for example: django.db.backends.postgresql)
+ `DB_ENGINE` - database engine.
 
  `DB_HOST` - database host.
 
@@ -40,3 +40,4 @@ python main.py
 ### Project Goals
 
 The code is written for educational purposes on online-course for web-developers [dvmn.org](https://dvmn.org/).
+
